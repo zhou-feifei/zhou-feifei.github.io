@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220mm" height="180mm" version="1.1" viewBox="0 0 2.2e5 1.8e5" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style type="text/css">
+            .svgst01 {
+                stroke: black;
+                stroke-width: 67.9;
+                stroke-miterlimit: 22.9256;
+                stroke-opacity: 0.466667
+            }
+
+            .svgst02 {
+                stroke: black;
+                stroke-width: 105.8;
+                stroke-linecap: round;
+                stroke-miterlimit: 22.9256
+            }
+
+            .svgst03 {
+                stroke: black;
+                stroke-width: 211.7;
+                stroke-linecap: round;
+                stroke-miterlimit: 22.9256
+            }
+
+            .svgst04 {
+                stroke: black;
+                stroke-width: 105.8;
+                stroke-linecap: round;
+                stroke-linejoin: round;
+                stroke-miterlimit: 22.9256
+            }
+
+            .svgst05 {
+                stroke: black;
+                stroke-width: 211.7;
+                stroke-linecap: round;
+                stroke-linejoin: round;
+                stroke-miterlimit: 22.9256
+            }
+
+            .svgst06 {
+                fill: none
+            }
+
+            .svgst07 {
+                fill: none;
+                fill-rule: nonzero
+            }
+
+            .svgst08 {
+                fill: none;
+                fill-rule: nonzero
+            }
+
+            .svgst09 {
+                fill: black
+            }
+
+            .svgst10 {
+                fill: black;
+                fill-rule: nonzero
+            }
+
+            .svgst11 {
+                font-weight: normal;
+                font-size: 7493.7px;
+                font-family: 'Arial'
+            }
+
+            .svgst12 {
+                font-weight: normal;
+                font-size: 4870.9px;
+                font-family: 'Arial';
+                baseline-shift: sub
+            }
+        </style>
+    </defs>
+
+
+
+
+
+    <path class="svgst06 svgst05" d="m197877 5042.2c23126 53440 23126 114140 0 167585" />
+    <path class="svgst06 svgst05" d="m81950 55210c9280.5 21446 9280.5 45808 0 67253" />
+    <line class="svgst06 svgst05" x1="108738" x2="122157" y1="88835" y2="88835" />
+    <line class="svgst06 svgst05" x1="142519" x2="165294" y1="88835" y2="88835" />
+    <line class="svgst06 svgst05" x1="176300" x2="214568" y1="88835" y2="88835" />
+    <line class="svgst06 svgst05" x1="81942" x2="197890" y1="55223" y2="5059.1" />
+    <line class="svgst06 svgst05" x1="81942" x2="197890" y1="122446" y2="172610" />
+    <line class="svgst06 svgst05" x1="105309" x2="118305" y1="62377" y2="58990" />
+    <line class="svgst06 svgst05" x1="137989" x2="160044" y1="53826" y2="48069" />
+    <line class="svgst06 svgst05" x1="170712" x2="207711" y1="45275" y2="35581" />
+    <line class="svgst06 svgst05" x1="105309" x2="118305" y1="115292" y2="118679" />
+    <line class="svgst06 svgst05" x1="137989" x2="160044" y1="123843" y2="129600" />
+    <line class="svgst06 svgst05" x1="170712" x2="207711" y1="132394" y2="142088" />
+
+
+    <polygon class="svgst09 svgst03" points="115977 59202 116188 59922 118305 58990" />
+    <polygon class="svgst09 svgst03" points="156658 48547 156827 49267 158986 48335" />
+    <polygon class="svgst09 svgst03" points="205425 35792 205594 36554 207710 35581" />
+    <polygon class="svgst09 svgst03" points="119871 89216 122157 88835 119871 88454" />
+    <polygon class="svgst09 svgst03" points="162965 89216 165294 88835 162965 88454" />
+    <polygon class="svgst09 svgst03" points="212282 89216 214568 88835 212282 88454" />
+    <polygon class="svgst09 svgst03" points="116188 117748 115977 118467 118305 118679" />
+    <polygon class="svgst09 svgst03" points="157886 128669 157716 129389 160045 129600" />
+    <polygon class="svgst09 svgst03" points="205594 141115 205425 141877 207711 142089" />
+
+
+    <path class="svgst06 svgst04" d="m4219.6 88835h8847.4m1905 0h1904.9m1905 0h9609.4m1904.9 0h1905m1904.9 0h9609.4m1905 0h1904.9m1905 0h9609.4m1905 0h1904.9m1905 0h9609.4m1904.9 0h1905m1947.3 0h8805.1" />
+    <path class="svgst06 svgst04" d="m4219.6 88835 8551.1-2243.6m1862.6-465.7 1820.3-508m1862.6-465.6 9270.8-2412.9m1862.6-508.1 1862.6-465.7m1820.3-507.9 9270.8-2412.9m1862.6-465.7 1862.6-508m1862.6-465.6 9270.8-2455.3m1820.2-465.7 1862.6-508m1862.7-465.6 9270.8-2412.9m1862.6-508 1820.3-465.7m1862.6-508 8508.8-2201.3" />
+    <line class="svgst06 svgst04" x1="137989" x2="160044" y1="53826" y2="53826" />
+    <line class="svgst06 svgst04" x1="137989" x2="137989" y1="53826" y2="48069" />
+    <line class="svgst06 svgst04" x1="160044" x2="137989" y1="48069" y2="48069" />
+    <line class="svgst06 svgst04" x1="160044" x2="160044" y1="48069" y2="53826" />
+
+
+    <polygon class="svgst09 svgst02" points="156920 54207 159249 53826 156920 53445" />
+    <polygon class="svgst09 svgst02" points="137608 50990 138413 50990 137989 48704" />
+    <path class="svgst06 svgst04" d="m154681 51442c22.5 157.5 42.8 315.2 60.9 473.3" />
+    <polygon class="svgst09 svgst02" points="154821 53195 154525 51863 154969 51834" />
+    <polygon class="svgst09 svgst02" points="154385 50126 154831 51254 154437 51333" />
+    <polyline class="svgst06 svgst04" points="170077 53233 165124 53233 167537 48915 170077 53233" />
+
+    <g transform="translate(60331 -36365)">
+        <text class="svgst09 svgst11" x="110000" y="90000">θ</text>
+    </g>
+    <path class="svgst07 svgst04" d="m142515 88835c-46.9 31293-10670 61670-30135 86171" />
+    <path class="svgst07 svgst04" d="m112378 175023-38565-13504m68705-72684-38565-13462m-4018.6 38909c-4850.8 16752-12814 32440-23473 46244m28937-82747c-148 9678.8-1307.7 19316-3460 28753" />
+    <polygon class="svgst09 svgst02" points="76595 159778 77103 160159 75664 161471" />
+    <polygon class="svgst09 svgst02" points="105732 78370 105097 78370 105436 76465" />
+    <g transform="translate(-10872 23048)">
+        <text class="svgst09 svgst11" x="110000" y="90000">s</text>
+    </g>
+
+    <path class="svgst07 svgst04" d="m89553 112587c0-2392.7 1968.9-4361.5 4361.5-4361.5 2392.7 0 4361.5 1968.9 4361.5 4361.5" />
+    <line class="svgst07 svgst04" x1="142519" x2="142519" y1="88835" y2="98994" />
+    <line class="svgst07 svgst04" x1="176300" x2="176300" y1="88835" y2="98994" />
+    <line class="svgst07 svgst04" x1="144424" x2="174395" y1="97470" y2="97470" />
+
+
+    <polygon class="svgst09 svgst02" points="144424 97132 144424 97767 142519 97470" />
+    <polygon class="svgst09 svgst02" points="175398 97470 173494 97767 173494 97132" />
+    <polyline class="svgst06 svgst04" points="159325 95354 154372 95354 156743 91036 159325 95354" />
+
+    <g transform="translate(51653 5226.7)">
+        <text class="svgst09 svgst11" x="110000" y="90000">r</text>
+    </g>
+
+    <line class="svgst07 svgst04" x1="4219.6" x2="4219.6" y1="88835" y2="98994" />
+    <line class="svgst07 svgst04" x1="142519" x2="142519" y1="88835" y2="98994" />
+    <line class="svgst07 svgst04" x1="6166.9" x2="140614" y1="97470" y2="97470" />
+
+    <polygon class="svgst09 svgst02" points="7066.4 97132 7066.4 97767 5119.1 97470" />
+    <polygon class="svgst09 svgst02" points="142519 97470 140614 97767 140614 97132" />
+    <g transform="translate(-38176 6285)">
+        <text class="svgst09 svgst11" x="110000" y="90000">r</text>
+    </g>
+
+    <path class="svgst07 svgst04" d="m4219.6 88835 3894.6 3090.3m1481.6 1185.2 1524 1185.3m1481.6 1227.7 7492.8 5968.8m1523.9 1185.3 1481.6 1185.3m1481.7 1185.3 7492.8 5968.8m1523.9 1185.3 1481.6 1227.6m1524 1185.4 7492.8 5968.8m1481.7 1185.3 1481.6 1185.3m1524 1227.7 7492.8 5968.8m1481.6 1185.3 1481.6 1185.3m1524 1185.3 7492.8 5968.8m1481.6 1185.4 1524 1227.6m1481.6 1185.3 7492.8 5968.8m1481.6 1185.3 1524 1185.3m1481.6 1185.3 7492.8 5968.8m1481.6 1227.7 1524 1185.3m1481.6 1185.3 7492.8 5968.8m1524 1185.4 1481.6 1185.3m1481.6 1227.6 3894.6 3090.3" />
+    <path class="svgst07 svgst04" d="m54671 109751c-1707.4 4116.7-3912.4 8008.8-6565.7 11590" />
+    <path class="svgst07 svgst04" d="m58803 90752c-132.1 3763.2-653.2 7503-1554.9 11159" />
+
+    <polygon class="svgst09 svgst02" points="48287 120499 48795 120880 47356 122235" />
+    <polygon class="svgst09 svgst02" points="59124 90740 58490 90740 58828 88835" />
+    <g transform="translate(-55955 18519)">
+        <text class="svgst09 svgst11" x="110000" y="90000">θ</text>
+    </g>
+
+    <path class="svgst07 svgst04" d="m138011 53830c2990.9 11429 4505 23194 4505 35008" />
+    <path class="svgst07 svgst04" d="m142519 88835-10329 1312.3m5799.5-36321-10287 1312.3m5350.8 21281c380.7 3866.5 598.2 7747.2 652 11632m-4019.4-31235c930.2 3766.7 1701.4 7570.7 2311.6 11403" />
+    <polygon class="svgst09 svgst02" points="133714 89978 133375 88073 134010 88030" />
+    <polygon class="svgst09 svgst02" points="129358 55659 130120 57437 129527 57606" />
+    <polyline class="svgst06 svgst04" points="132063 74272 127110 74272 129523 69954 132063 74272" />
+
+    <g transform="translate(22317 -15897)">
+        <text class="svgst09 svgst11" x="110000" y="90000">s</text>
+    </g>
+
+    <path class="svgst07 svgst04" d="m116671 74679c0-2590 2131.2-4721.3 4721.3-4721.3 2590 0 4721.3 2131.2 4721.3 4721.3" />
+    <path class="svgst07 svgst04" d="m58807 90752c-22.4 638.2-56 1276.1-100.8 1913.1" />
+    <path class="svgst07 svgst04" d="m55966 71343c204.6 605 398.6 1213.5 581.9 1825.3" />
+    <path class="svgst07 svgst04" d="m58756 85740c58.5 1030.5 87.8 2062.5 87.8 3094.6" />
+
+
+    <polygon class="svgst09 svgst02" points="58828 88835 58490 90740 59124 90740" />
+    <polygon class="svgst09 svgst02" points="56838 73087 56246 73256 57050 74992" />
+    <polyline class="svgst06 svgst04" points="57685 83797 52732 83797 55103 79521 57685 83797" />
+
+    <g transform="translate(-52061 -5800.7)">
+        <text class="svgst09 svgst11" x="110000" y="90000">θ</text>
+    </g>
+    <path class="svgst07 svgst04" d="m57063 75013c309.2 1181.5 578.7 2373.1 808 3572.7" />
+    <g transform="translate(50046 -5889.6)">
+        <text class="svgst09 svgst11" x="110000" y="90000">v<tspan baseline-shift="sub" font-size="65%">0</tspan></text>
+
+    </g>
+    <g transform="translate(45596 -45542)">
+        <text class="svgst09 svgst11" x="110000" y="90000">v<tspan baseline-shift="sub" font-size="65%">up</tspan></text>
+
+    </g>
+    <g transform="translate(89901 -5242.2)">
+        <text class="svgst09 svgst11" x="110000" y="90000">v<tspan baseline-shift="sub" font-size="65%">right</tspan></text>
+
+    </g>
+    <g transform="translate(20946 5825.6)">
+        <text class="svgst09 svgst11" x="110000" y="90000">B<tspan baseline-shift="sub" font-size="65%">1</tspan></text>
+
+    </g>
+    <g transform="translate(16905 -41086)">
+        <text class="svgst09 svgst11" x="110000" y="90000">B<tspan baseline-shift="sub" font-size="65%">2</tspan></text>
+
+    </g>
+    <g transform="translate(65170 -5233.9)">
+        <text class="svgst09 svgst11" x="110000" y="90000">B<tspan baseline-shift="sub" font-size="65%">3</tspan></text>
+
+    </g>
+
+    <path class="svgst10" d="m138594 53796c0-351.2-284.8-636-636-636s-636 284.8-636 636 284.8 636 636 636 636-284.8 636-636z" />
+    <path class="svgst08 svgst01" d="m138594 53796c0-351.2-284.8-636-636-636s-636 284.8-636 636 284.8 636 636 636 636-284.8 636-636z" />
+
+
+    <path class="svgst10" d="m143166 88797c0-351.2-284.8-636-636-636s-636 284.8-636 636 284.8 636 636 636 636-284.8 636-636z" />
+    <path class="svgst08 svgst01" d="m143166 88797c0-351.2-284.8-636-636-636s-636 284.8-636 636 284.8 636 636 636 636-284.8 636-636z" />
+
+
+    <path class="svgst10" d="m176904 88828c0-351.2-284.8-636-636-636s-636 284.8-636 636 284.8 636 636 636 636-284.8 636-636z" />
+    <path class="svgst08 svgst01" d="m176904 88828c0-351.2-284.8-636-636-636s-636 284.8-636 636 284.8 636 636 636 636-284.8 636-636z" />
+    <g>
+        <g transform="translate(-103765 -29151)">
+            <text class="svgst09 svgst11" x="106295.88" y="113283.28" fill="#000000" font-family="Arial" font-size="7493.7px">O
+                <tspan baseline-shift="sub" font-size="65%" />
+            </text>
+
+        </g>
+        <g transform="translate(-37340 26494)">
+            <path class="svgst10" d="m143166 88797c0-351.2-284.8-636-636-636s-636 284.8-636 636 284.8 636 636 636 636-284.8 636-636z" fill-rule="nonzero" />
+            <path class="svgst08 svgst01" d="m143166 88797c0-351.2-284.8-636-636-636s-636 284.8-636 636 284.8 636 636 636 636-284.8 636-636z" fill="none" stroke="#000" stroke-miterlimit="22.926" stroke-opacity=".46667" stroke-width="67.9" />
+        </g>
+        <g transform="translate(-4490.1 35053)">
+            <path class="svgst10" d="m143166 88797c0-351.2-284.8-636-636-636s-636 284.8-636 636 284.8 636 636 636 636-284.8 636-636z" fill-rule="nonzero" />
+            <path class="svgst08 svgst01" d="m143166 88797c0-351.2-284.8-636-636-636s-636 284.8-636 636 284.8 636 636 636 636-284.8 636-636z" fill="none" stroke="#000" stroke-miterlimit="22.926" stroke-opacity=".46667" stroke-width="67.9" />
+        </g>
+        <g transform="translate(28015 43517)">
+            <path class="svgst10" d="m143166 88797c0-351.2-284.8-636-636-636s-636 284.8-636 636 284.8 636 636 636 636-284.8 636-636z" fill-rule="nonzero" />
+            <path class="svgst08 svgst01" d="m143166 88797c0-351.2-284.8-636-636-636s-636 284.8-636 636 284.8 636 636 636 636-284.8 636-636z" fill="none" stroke="#000" stroke-miterlimit="22.926" stroke-opacity=".46667" stroke-width="67.9" />
+        </g>
+        <g transform="translate(-37238 -26464)">
+            <path class="svgst10" d="m143166 88797c0-351.2-284.8-636-636-636s-636 284.8-636 636 284.8 636 636 636 636-284.8 636-636z" fill-rule="nonzero" />
+            <path class="svgst08 svgst01" d="m143166 88797c0-351.2-284.8-636-636-636s-636 284.8-636 636 284.8 636 636 636 636-284.8 636-636z" fill="none" stroke="#000" stroke-miterlimit="22.926" stroke-opacity=".46667" stroke-width="67.9" />
+        </g>
+        <g transform="translate(-33841 6.2529)">
+            <path class="svgst10" d="m143166 88797c0-351.2-284.8-636-636-636s-636 284.8-636 636 284.8 636 636 636 636-284.8 636-636z" fill-rule="nonzero" />
+            <path class="svgst08 svgst01" d="m143166 88797c0-351.2-284.8-636-636-636s-636 284.8-636 636 284.8 636 636 636 636-284.8 636-636z" fill="none" stroke="#000" stroke-miterlimit="22.926" stroke-opacity=".46667" stroke-width="67.9" />
+        </g>
+        <g transform="translate(28392 -43560)">
+            <path class="svgst10" d="m143166 88797c0-351.2-284.8-636-636-636s-636 284.8-636 636 284.8 636 636 636 636-284.8 636-636z" fill-rule="nonzero" />
+            <path class="svgst08 svgst01" d="m143166 88797c0-351.2-284.8-636-636-636s-636 284.8-636 636 284.8 636 636 636 636-284.8 636-636z" fill="none" stroke="#000" stroke-miterlimit="22.926" stroke-opacity=".46667" stroke-width="67.9" />
+        </g>
+    </g>
+
+</svg>

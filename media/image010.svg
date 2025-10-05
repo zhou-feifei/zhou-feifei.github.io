@@ -1,0 +1,651 @@
+<svg width="1150mm" height="600mm" version="1.1" viewBox="0 0 1150 600" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <marker id="b" overflow="visible" markerHeight="10" markerWidth="17.5" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" refX="7" viewBox="0 0 8.75 5">
+            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <marker id="a" overflow="visible" markerHeight="10" markerWidth="17.5" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" refX="7" viewBox="0 0 8.75 5">
+            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <marker id="c" overflow="visible" markerHeight="10" markerWidth="17.5" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" refX="7" viewBox="0 0 8.75 5">
+            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <marker id="d" overflow="visible" markerHeight="10" markerWidth="17.5" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" refX="7" viewBox="0 0 8.75 5">
+            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <marker id="e" overflow="visible" markerHeight="10" markerWidth="17.5" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" refX="7" viewBox="0 0 8.75 5">
+            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <marker id="f" overflow="visible" markerHeight="22.857144" markerWidth="40" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 8.75 5">
+            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <marker id="g" overflow="visible" markerHeight="22.857144" markerWidth="40" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 8.75 5">
+            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <marker id="h" overflow="visible" markerHeight="22.857144" markerWidth="40" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 8.75 5">
+            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <marker id="i" overflow="visible" markerHeight="10" markerWidth="17.5" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" refX="7" viewBox="0 0 8.75 5">
+            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <marker id="j" overflow="visible" markerHeight="10" markerWidth="17.5" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" refX="7" viewBox="0 0 8.75 5">
+            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <marker id="k" overflow="visible" markerHeight="10" markerWidth="17.5" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" refX="7" viewBox="0 0 8.75 5">
+            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <marker id="l" overflow="visible" markerHeight="10" markerWidth="17.5" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" refX="7" viewBox="0 0 8.75 5">
+            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <marker id="m" overflow="visible" markerHeight="10" markerWidth="17.5" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" refX="7" viewBox="0 0 8.75 5">
+            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <marker id="n" overflow="visible" markerHeight="10" markerWidth="17.5" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" refX="7" viewBox="0 0 8.75 5">
+            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <marker id="o" overflow="visible" markerHeight="10" markerWidth="17.5" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" refX="7" viewBox="0 0 8.75 5">
+            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <marker id="p" overflow="visible" markerHeight="10" markerWidth="17.5" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" refX="7" viewBox="0 0 8.75 5">
+            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <marker id="q" overflow="visible" markerHeight="10" markerWidth="17.5" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" refX="7" viewBox="0 0 8.75 5">
+            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <marker id="r" overflow="visible" markerHeight="10" markerWidth="17.5" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" refX="7" viewBox="0 0 8.75 5">
+            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <marker id="s" overflow="visible" markerHeight="10" markerWidth="17.5" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" refX="7" viewBox="0 0 8.75 5">
+            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <marker id="cl" overflow="visible" markerHeight="10" markerWidth="17.5" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" refX="7" viewBox="0 0 8.75 5">
+            <path id="cm" transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+        </marker>
+        <clipPath id="ck">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="cj">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="ci">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="ch">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="cg">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="cf">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="ce">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="cd">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="cc">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="cb">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="ca">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bz">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="by">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bx">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bw">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bv">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bu">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bt">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bs">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="br">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bq">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bp">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bo">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bn">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bm">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bl">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bk">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bj">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bi">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bh">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bg">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bf">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="be">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bd">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bc">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="bb">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="ba">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="az">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="ay">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="ax">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="aw">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="av">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="au">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="at">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="as">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="ar">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="aq">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="ap">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="ao">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="an">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="am">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="al">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="ak">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="aj">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="ai">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="ah">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="ag">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="af">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="ae">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="ad">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="ac">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="ab">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="aa">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="z">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="y">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="x">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="w">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="v">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="u">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+        <clipPath id="t">
+            <path d="m90 2615.4h558v558h-558z" />
+        </clipPath>
+    </defs>
+    <g transform="matrix(3.5278 0 0 -3.5278 -812.27 10550)" stroke-width=".2">
+        <g clip-path="url(#ck)" stroke-width=".6">
+            <path d="m245.38 2939.6 2.4211-0.8572 2.6535-0.7121 2.88-0.5703 3.0969-0.4339 3.3006-0.3054 3.4878-0.1869 3.6556-0.08 3.8013 0.013 3.9226 0.09 4.0177 0.1514 4.0851 0.1952 4.124 0.2207 4.1339 0.2277 4.1148 0.2159 4.0671 0.1857 3.9918 0.1376 3.8902 0.072 3.7641-0.01 3.6157-0.1056 3.4473-0.2152 3.2618-0.3364 3.062-0.4675 2.8513-0.6063 2.633-0.7504 2.4105-0.8981 2.1873-1.0467 1.967-1.194 1.7531-1.3378 1.5489-1.4758 1.3576-1.6058 1.1824-1.7257 1.0261-1.8338 0.89114-1.9281 0.77981-2.0072 0.69397-2.0697 0.6351-2.1146 0.60425-2.1409 0.60206-2.1484 0.62871-2.1366 0.68386-2.1058 0.76678-2.0562 0.87622-1.9887 1.0105-1.9043 1.1676-1.8041 1.3449-1.69 1.5396-1.5636 1.7486-1.4271 1.9685-1.2826 2.1956-1.1327 2.4263-0.9796 2.6568-0.8262 2.8832-0.6747 3.1019-0.528 3.3093-0.3881 3.502-0.2578 3.6771-0.139 3.8316-0.034 3.9631 0.056 4.0697 0.1295 4.1497 0.185 4.202 0.2214 4.2259 0.2385 4.2213 0.2361 4.1883 0.2139 4.1277 0.1726 4.0405 0.1127 3.9284 0.035 3.7933-0.059 3.6374-0.1673 3.4632-0.2891 3.2737-0.4222 3.0719-0.5646 2.861-0.7139 2.6443-0.8679 2.4253-1.0242 2.2075-1.1804 1.9942-1.3341 1.7889-1.4829 1.5947-1.6243 1.4149-1.7564 1.2523-1.8768 1.1094-1.9837 0.98875-2.0754 0.89222-2.1503 0.8215-2.207 0.77783-2.2449 0.76203-2.2628 0.77449-2.2608 0.81514-2.2384 0.88345-2.196 0.97843-2.1344 1.0987-2.0542 1.2423-1.9569 1.407-1.8438 1.5903-1.7168 1.7891-1.578 2.0002-1.4296 2.2201-1.2741 2.4454-1.1141" fill="none" stroke="#000" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".6" />
+        </g>
+    </g>
+    <g transform="matrix(3.5278 0 0 -3.5278 -812.27 10550)" stroke-width=".6">
+        <g clip-path="url(#cj)" stroke-width=".6">
+            <path d="m259.28 2968.1 2.3132-1.072 2.3224-1.3845 2.3311-1.6897 2.339-1.9826 2.3462-2.2581 2.3526-2.512 2.3582-2.7402 2.3628-2.9387 2.3665-3.1047 2.3693-3.2353 2.3713-3.3286 2.3724-3.3832 2.3728-3.3983 2.3725-3.3736 2.3716-3.3098 2.3701-3.2081 2.3683-3.0699 2.3661-2.8978 2.3637-2.6945 2.3612-2.4631 2.3587-2.2076 2.3563-1.932 2.354-1.6405 2.3521-1.3378 2.3505-1.0288 2.3494-0.7183 2.3487-0.4111 2.3485-0.1121 2.3489 0.174 2.3499 0.4424 2.3515 0.6891 2.3537 0.9101 2.3564 1.1018 2.3596 1.2607 2.3634 1.3848 2.3675 1.4714 2.372 1.5193 2.3769 1.5273 2.3819 1.4955 2.3871 1.4239 2.3924 1.3137 2.3977 1.1663 2.4028 0.9844 2.4078 0.7703 2.4126 0.5279 2.417 0.2607 2.4211-0.027 2.4248-0.3298 2.4281-0.6436 2.4309-0.963 2.4332-1.2827 2.4351-1.5975 2.4366-1.9021 2.4376-2.1917 2.4382-2.4615 2.4386-2.7071 2.4387-2.9244 2.4386-3.11 2.4383-3.2612 2.4381-3.3752 2.4379-3.4506 2.4378-3.4859 2.438-3.4812 2.4384-3.4361 2.4392-3.3517 2.4405-3.2296 2.4422-3.0717 2.4445-2.8804 2.4474-2.6591 2.4508-2.4113 2.4549-2.1409 2.4596-1.8521 2.465-1.5497 2.4708-1.2384 2.4772-0.9229 2.4841-0.6085 2.4914-0.2998h2.499l2.5069 0.2803 2.5149 0.5425 2.5229 0.7807 2.5309 0.9908 2.5386 1.1693 2.546 1.3135 2.5531 1.4207 2.5595 1.4893 2.5654 1.5178 2.5705 1.5058 2.5748 1.453 2.5782 1.3605 2.5807 1.2293 2.5822 1.0616 2.5827 0.8598 2.5822 0.6274 2.5807 0.3676 2.5783 0.085 2.575-0.2157 2.5709-0.5302 2.5661-0.8527" fill="none" stroke="#000" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".6" />
+        </g>
+    </g>
+    <g stroke-width=".2">
+        <g transform="matrix(3.5278,0,0,-3.5278,-812.27,10550)">
+            <g clip-path="url(#ci)" stroke-width=".2">
+                <path d="m259.74 2948.7 13.841-5.5424 2.3151-0.927 2.3175-0.9281 2.3199-0.9289 2.3223-0.93 2.3246-0.9309 2.3271-0.9318 2.3295-0.9329 2.3319-0.9337 2.3343-0.9348 7.0174-2.8101 2.344-0.9386 2.3464-0.9397 2.3489-0.9405 4.7051-1.8842 66.914-26.795 21.93-8.7817 89.852-35.981 7.6458-3.0617" fill="none" stroke="#000" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".2" />
+            </g>
+        </g>
+        <g transform="matrix(3.5278 0 0 -3.5278 1046.7 535.28)">
+            <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans Mono'" font-size="12px" stroke-width=".2" xml:space="preserve">
+                <tspan x="0" y="0" font-size="12px" stroke-width=".2">y</tspan>
+            </text>
+        </g>
+        <g transform="matrix(3.5278 0 0 -3.5278 257.47 377.06)">
+            <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans Mono'" font-size="12px" stroke-width=".2" xml:space="preserve">
+                <tspan x="0" y="0" font-size="12px" stroke-width=".2">x</tspan>
+            </text>
+        </g>
+        <g transform="matrix(3.5278 0 0 -3.5278 398.47 102.07)">
+            <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans Mono'" font-size="12px" stroke-width=".2" xml:space="preserve">
+                <tspan x="0" y="0" font-size="12px" stroke-width=".2">z</tspan>
+            </text>
+        </g>
+        <g transform="matrix(3.5278 0 0 -3.5278 419.99 386.06)">
+            <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans Mono'" font-size="12px" stroke-width=".2" xml:space="preserve">
+                <tspan x="0" y="0" font-size="12px" stroke-width=".2">B</tspan>
+            </text>
+        </g>
+        <g transform="matrix(3.5278 0 0 -3.5278 514.85 223.07)">
+            <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans Mono'" font-size="12px" stroke-width=".2" xml:space="preserve">
+                <tspan x="0" y="0" font-size="12px" stroke-width=".2">E</tspan>
+            </text>
+        </g>
+        <g transform="matrix(3.5278,0,0,-3.5278,-812.27,10550)">
+            <g fill="none" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10">
+                <g clip-path="url(#ch)">
+                    <path d="m259.28 2968.1 0.4546-19.436" marker-start="url(#c)" />
+                    <path d="m259.28 2968.1" />
+                    <path d="m259.28 2968.1" />
+                </g>
+                <g clip-path="url(#cg)">
+                    <path d="m245.38 2939.6 14.357 9.0786" marker-start="url(#a)" />
+                    <path d="m245.38 2939.6" />
+                    <path d="m245.38 2939.6" />
+                </g>
+                <g clip-path="url(#cf)">
+                    <path d="m266.47 2963.8 0.39488-17.969" marker-start="url(#c)" />
+                    <path d="m266.47 2963.8" />
+                    <path d="m266.47 2963.8" />
+                </g>
+                <g clip-path="url(#ce)">
+                    <path d="m273.73 2956.8 0.28274-13.755" marker-start="url(#c)" />
+                    <path d="m273.73 2956.8" />
+                    <path d="m273.73 2956.8" />
+                </g>
+                <g clip-path="url(#cd)">
+                    <path d="m253.62 2937.4 13.247 8.4111" marker-start="url(#a)" />
+                    <path d="m253.62 2937.4" />
+                    <path d="m253.62 2937.4" />
+                </g>
+                <g clip-path="url(#cc)">
+                    <path d="m281.04 2947.6 0.14236-7.4426" marker-start="url(#c)" />
+                    <path d="m281.04 2947.6" />
+                    <path d="m281.04 2947.6" />
+                </g>
+                <g clip-path="url(#cb)">
+                    <path d="m288.38 2937.2" />
+                    <path d="m288.38 2937.2" />
+                    <path d="m288.38 2937.2" />
+                </g>
+                <g clip-path="url(#ca)">
+                    <path d="m288.38 2937.2" />
+                    <path d="m288.38 2937.2" />
+                    <path d="m288.38 2937.2" />
+                </g>
+                <g clip-path="url(#bz)">
+                    <path d="m275.72 2936.6 5.4616 3.4967" marker-start="url(#a)" />
+                    <path d="m275.72 2936.6" />
+                    <path d="m275.72 2936.6" />
+                </g>
+                <g clip-path="url(#by)">
+                    <path d="m263.89 2936.5 10.118 6.4511" marker-start="url(#a)" />
+                    <path d="m263.89 2936.5" />
+                    <path d="m263.89 2936.5" />
+                </g>
+                <g clip-path="url(#bx)">
+                    <path d="m301.02 2937.9-5.4299-3.5055" marker-start="url(#n)" />
+                    <path d="m301.02 2937.9" />
+                    <path d="m301.02 2937.9" />
+                </g>
+                <g clip-path="url(#bw)">
+                    <path d="m295.72 2926.9-0.12087 7.4356" marker-start="url(#b)" />
+                    <path d="m295.72 2926.9" />
+                    <path d="m295.72 2926.9" />
+                </g>
+                <g clip-path="url(#bv)">
+                    <path d="m312.84 2937.9-10.007-6.4875" marker-start="url(#m)" />
+                    <path d="m312.84 2937.9" />
+                    <path d="m312.84 2937.9" />
+                </g>
+                <g clip-path="url(#bu)">
+                    <path d="m303.04 2917.7-0.20343 13.736" marker-start="url(#b)" />
+                    <path d="m303.04 2917.7" />
+                    <path d="m303.04 2917.7" />
+                </g>
+                <g clip-path="url(#bt)">
+                    <path d="m323.15 2937-13.047-8.4941" marker-start="url(#l)" />
+                    <path d="m323.15 2937" />
+                    <path d="m323.15 2937" />
+                </g>
+                <g clip-path="url(#bs)">
+                    <path d="m310.34 2910.6-0.23979 17.95" marker-start="url(#b)" />
+                    <path d="m310.34 2910.6" />
+                    <path d="m310.34 2910.6" />
+                </g>
+                <g clip-path="url(#br)">
+                    <path d="m331.49 2934.8-14.102-9.22" marker-start="url(#k)" />
+                    <path d="m331.49 2934.8" />
+                    <path d="m331.49 2934.8" />
+                </g>
+                <g clip-path="url(#bq)">
+                    <path d="m317.62 2906.2-0.23138 19.442" marker-start="url(#b)" />
+                    <path d="m317.62 2906.2" />
+                    <path d="m317.62 2906.2" />
+                </g>
+                <g clip-path="url(#bp)">
+                    <path d="m337.72 2931.2-13.02-8.5488" marker-start="url(#j)" />
+                    <path d="m337.72 2931.2" />
+                    <path d="m337.72 2931.2" />
+                </g>
+                <g clip-path="url(#bo)">
+                    <path d="m324.89 2904.7-0.1877 17.986" marker-start="url(#b)" />
+                    <path d="m324.89 2904.7" />
+                    <path d="m324.89 2904.7" />
+                </g>
+                <g clip-path="url(#bn)">
+                    <path d="m342 2926.3-9.9658-6.5714" marker-start="url(#e)" />
+                    <path d="m342 2926.3" />
+                    <path d="m342 2926.3" />
+                </g>
+                <g clip-path="url(#bm)">
+                    <path d="m332.16 2906-0.12364 13.792" marker-start="url(#b)" />
+                    <path d="m332.16 2906" />
+                    <path d="m332.16 2906" />
+                </g>
+                <g clip-path="url(#bl)">
+                    <path d="m344.79 2920.4-5.3967-3.5738" marker-start="url(#e)" />
+                    <path d="m344.79 2920.4" />
+                    <path d="m344.79 2920.4" />
+                </g>
+                <g clip-path="url(#bk)">
+                    <path d="m339.45 2909.3-0.056 7.4812" marker-start="url(#b)" />
+                    <path d="m339.45 2909.3" />
+                    <path d="m339.45 2909.3" />
+                </g>
+                <g clip-path="url(#bj)">
+                    <path d="m354.14 2918.4 0.0339-7.5192" marker-start="url(#d)" />
+                    <path d="m354.14 2918.4" />
+                    <path d="m354.14 2918.4" />
+                </g>
+                <g clip-path="url(#bi)">
+                    <path d="m348.77 2907.3 5.4064 3.6113" marker-start="url(#a)" />
+                    <path d="m348.77 2907.3" />
+                    <path d="m348.77 2907.3" />
+                </g>
+                <g clip-path="url(#bh)">
+                    <path d="m361.57 2921.8 0.042-13.926" marker-start="url(#d)" />
+                    <path d="m361.57 2921.8" />
+                    <path d="m361.57 2921.8" />
+                </g>
+                <g clip-path="url(#bg)">
+                    <path d="m351.61 2901.2 9.9956 6.7057" marker-start="url(#a)" />
+                    <path d="m351.61 2901.2" />
+                    <path d="m351.61 2901.2" />
+                </g>
+            </g>
+            <g clip-path="url(#bf)">
+                <path d="m346.53 2953.4 0.23718-39.51" fill="none" marker-start="url(#g)" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".2" />
+            </g>
+            <g clip-path="url(#be)" fill="none" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10">
+                <path d="m369.03 2923.2 0.0275-18.23" marker-start="url(#d)" />
+                <path d="m369.03 2923.2" />
+                <path d="m369.03 2923.2" />
+            </g>
+            <g clip-path="url(#bd)" fill="none" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10">
+                <path d="m356 2896.1 13.06 8.7999" marker-start="url(#a)" />
+                <path d="m356 2896.1" />
+                <path d="m356 2896.1" />
+            </g>
+            <g clip-path="url(#bc)">
+                <path d="m318.25 2894.9 28.523 18.97" fill="none" marker-start="url(#f)" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".2" />
+            </g>
+            <g fill="none" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10">
+                <g clip-path="url(#bb)">
+                    <path d="m376.54 2921.7v-19.758" marker-start="url(#d)" />
+                    <path d="m376.54 2921.7" />
+                    <path d="m376.54 2921.7" />
+                </g>
+                <g clip-path="url(#ba)">
+                    <path d="m362.41 2892.4 14.126 9.5598" marker-start="url(#a)" />
+                    <path d="m362.41 2892.4" />
+                    <path d="m362.41 2892.4" />
+                </g>
+                <g clip-path="url(#az)">
+                    <path d="m384.07 2917.2-0.0277-18.267" marker-start="url(#d)" />
+                    <path d="m384.07 2917.2" />
+                    <path d="m384.07 2917.2" />
+                </g>
+                <g clip-path="url(#ay)">
+                    <path d="m391.61 2909.9-0.0425-13.983" marker-start="url(#d)" />
+                    <path d="m391.61 2909.9" />
+                    <path d="m391.61 2909.9" />
+                </g>
+                <g clip-path="url(#ax)">
+                    <path d="m371.01 2890.1 13.031 8.8576" marker-start="url(#a)" />
+                    <path d="m371.01 2890.1" />
+                    <path d="m371.01 2890.1" />
+                </g>
+                <g clip-path="url(#aw)">
+                    <path d="m399.16 2900.5-0.0346-7.5657" marker-start="url(#d)" />
+                    <path d="m399.16 2900.5" />
+                    <path d="m399.16 2900.5" />
+                </g>
+                <g clip-path="url(#av)">
+                    <path d="m406.7 2889.9" />
+                    <path d="m406.7 2889.9" />
+                    <path d="m406.7 2889.9" />
+                </g>
+                <g clip-path="url(#au)">
+                    <path d="m406.7 2889.9" />
+                    <path d="m406.7 2889.9" />
+                    <path d="m406.7 2889.9" />
+                </g>
+                <g clip-path="url(#at)">
+                    <path d="m393.75 2889.2 5.3701 3.6827" marker-start="url(#a)" />
+                    <path d="m393.75 2889.2" />
+                    <path d="m393.75 2889.2" />
+                </g>
+                <g clip-path="url(#as)">
+                    <path d="m381.62 2889.1 9.9509 6.7939" marker-start="url(#a)" />
+                    <path d="m381.62 2889.1" />
+                    <path d="m381.62 2889.1" />
+                </g>
+                <g clip-path="url(#ar)">
+                    <path d="m419.64 2890.5-5.3361-3.6922" marker-start="url(#i)" />
+                    <path d="m419.64 2890.5" />
+                    <path d="m419.64 2890.5" />
+                </g>
+                <g clip-path="url(#aq)">
+                    <path d="m414.24 2879.3 0.0579 7.558" marker-start="url(#b)" />
+                    <path d="m414.24 2879.3" />
+                    <path d="m414.24 2879.3" />
+                </g>
+                <g clip-path="url(#ap)">
+                    <path d="m431.76 2890.6-9.8313-6.8333" marker-start="url(#r)" />
+                    <path d="m431.76 2890.6" />
+                    <path d="m431.76 2890.6" />
+                </g>
+                <g clip-path="url(#ao)">
+                    <path d="m421.8 2869.8 0.12856 13.962" marker-start="url(#b)" />
+                    <path d="m421.8 2869.8" />
+                    <path d="m421.8 2869.8" />
+                </g>
+                <g clip-path="url(#an)">
+                    <path d="m442.4 2889.6-12.815-8.9474" marker-start="url(#s)" />
+                    <path d="m442.4 2889.6" />
+                    <path d="m442.4 2889.6" />
+                </g>
+                <g clip-path="url(#am)">
+                    <path d="m429.38 2862.5 0.19646 18.244" marker-start="url(#b)" />
+                    <path d="m429.38 2862.5" />
+                    <path d="m429.38 2862.5" />
+                </g>
+                <g clip-path="url(#al)">
+                    <path d="m451.11 2887.3-13.848-9.7127" marker-start="url(#cl)" />
+                    <path d="m451.11 2887.3" />
+                    <path d="m451.11 2887.3" />
+                </g>
+                <g clip-path="url(#ak)">
+                    <path d="m437.01 2857.9 0.24375 19.762" marker-start="url(#b)" />
+                    <path d="m437.01 2857.9" />
+                    <path d="m437.01 2857.9" />
+                </g>
+                <g clip-path="url(#aj)">
+                    <path d="m457.74 2883.5-12.783-9.0066" marker-start="url(#q)" />
+                    <path d="m457.74 2883.5" />
+                    <path d="m457.74 2883.5" />
+                </g>
+                <g clip-path="url(#ai)">
+                    <path d="m444.71 2856.3 0.25426 18.282" marker-start="url(#b)" />
+                    <path d="m444.71 2856.3" />
+                    <path d="m444.71 2856.3" />
+                </g>
+                <g clip-path="url(#ah)">
+                    <path d="m462.47 2878.4-9.7823-6.9241" marker-start="url(#p)" />
+                    <path d="m462.47 2878.4" />
+                    <path d="m462.47 2878.4" />
+                </g>
+                <g clip-path="url(#ag)">
+                    <path d="m452.47 2857.4 0.21713 14.019" marker-start="url(#b)" />
+                    <path d="m452.47 2857.4" />
+                    <path d="m452.47 2857.4" />
+                </g>
+                <g clip-path="url(#af)">
+                    <path d="m465.74 2872.1-5.2964-3.7661" marker-start="url(#o)" />
+                    <path d="m465.74 2872.1" />
+                    <path d="m465.74 2872.1" />
+                </g>
+                <g clip-path="url(#ae)">
+                    <path d="m460.31 2860.7 0.12986 7.6047" marker-start="url(#b)" />
+                    <path d="m460.31 2860.7" />
+                    <path d="m460.31 2860.7" />
+                </g>
+                <g clip-path="url(#ad)">
+                    <path d="m468.22 2865.2" />
+                    <path d="m468.22 2865.2" />
+                    <path d="m468.22 2865.2" />
+                </g>
+                <g clip-path="url(#ac)">
+                    <path d="m468.22 2865.2" />
+                    <path d="m468.22 2865.2" />
+                    <path d="m468.22 2865.2" />
+                </g>
+                <g clip-path="url(#ab)">
+                    <path d="m476.18 2869.7-0.15498-7.644" marker-start="url(#c)" />
+                    <path d="m476.18 2869.7" />
+                    <path d="m476.18 2869.7" />
+                </g>
+                <g clip-path="url(#aa)">
+                    <path d="m470.73 2858.3 5.3039 3.8066" marker-start="url(#a)" />
+                    <path d="m470.73 2858.3" />
+                    <path d="m470.73 2858.3" />
+                </g>
+                <g clip-path="url(#z)">
+                    <path d="m484.17 2873.1-0.30983-14.158" marker-start="url(#c)" />
+                    <path d="m484.17 2873.1" />
+                    <path d="m484.17 2873.1" />
+                </g>
+                <g clip-path="url(#y)">
+                    <path d="m474.06 2851.9 9.8043 7.0694" marker-start="url(#a)" />
+                    <path d="m474.06 2851.9" />
+                    <path d="m474.06 2851.9" />
+                </g>
+                <g clip-path="url(#x)">
+                    <path d="m492.15 2874.4-0.43556-18.533" marker-start="url(#c)" />
+                    <path d="m492.15 2874.4" />
+                    <path d="m492.15 2874.4" />
+                </g>
+                <g clip-path="url(#w)">
+                    <path d="m478.91 2846.5 12.808 9.2782" marker-start="url(#a)" />
+                    <path d="m478.91 2846.5" />
+                    <path d="m478.91 2846.5" />
+                </g>
+                <g clip-path="url(#v)">
+                    <path d="m500.11 2872.7-0.50473-20.087" marker-start="url(#c)" />
+                    <path d="m500.11 2872.7" />
+                    <path d="m500.11 2872.7" />
+                </g>
+            </g>
+            <g clip-path="url(#u)">
+                <path d="m519.8 2844.6-173.03 69.289" fill="none" marker-start="url(#h)" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".2" />
+            </g>
+            <g clip-path="url(#t)" fill="none" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10">
+                <path d="m485.75 2842.6 13.85 10.08" marker-start="url(#a)" />
+                <path d="m485.75 2842.6" />
+                <path d="m485.75 2842.6" />
+            </g>
+        </g>
+    </g>
+</svg>

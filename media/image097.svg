@@ -1,0 +1,47 @@
+<svg width="427mm" height="127mm" version="1.1" viewBox="0 0 42700 12700" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <defs><marker id="a" style="overflow:visible" markerHeight="5" markerWidth="8.75" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 8.75 5"><path id="b" transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" style="fill-rule:evenodd;fill:context-stroke"/></marker>
+  <font id="c" font-weight="400" horiz-adv-x="667" horiz-origin-x="0" horiz-origin-y="0" vert-adv-y="1024" vert-origin-x="512" vert-origin-y="768">
+	<font-face font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="m0 0"/></missing-glyph>
+   <glyph d="M404.999 190.002l85.9978 -12c-9.49798,-59.1659 -33.4979,-105.336 -72.3299,-138.834 -38.8319,-33.5039 -86.6698,-50.1659 -143.166,-50.1659 -70.8359,0 -127.836,23.166 -170.838,69.4979 -43.1639,46.3319 -64.6619,112.668 -64.6619,199.002 0,55.9979 9.32998,104.832 27.8339,146.832 18.498,41.8319 46.6619,73.3319 84.6658,94.1698 37.8299,21 78.9958,31.4999 123.666,31.4999 56.1659,0 102.33,-14.172 138,-42.6719 35.8319,-28.4999 58.8299,-68.9999 68.8319,-121.332l-85.0018 -13.002c-8.16598,34.8359 -22.5,61.0019 -43.3319,78.6718 -20.664,17.496 -45.6659,26.3279 -74.9999,26.3279 -44.3339,0 -80.3338,-15.828 -108.168,-47.4959 -27.6659,-31.8359 -41.4959,-81.8338 -41.4959,-150.504 0,-69.6659 13.332,-120.162 39.9959,-151.662 26.8379,-31.4999 61.6679,-47.3339 104.502,-47.3339 34.6679,0 63.4979,10.5 86.5018,31.6619 23.166,21 37.8299,53.5019 43.9979,97.3378z" horiz-adv-x="500" unicode="c"/>
+   <glyph d="M256.997 78.4978l12 -77.6638c-24.666,-5.16599 -46.8299,-7.83598 -66.1619,-7.83598 -31.8359,0 -56.5019,5.00399 -74.1719,15.168 -17.496,10.17 -29.8319,23.334 -36.9959,39.8339 -7.16999,16.5 -10.668,51.1679 -10.668,103.998l0 299.003 -64.9979 0 0 67.9979 64.9979 0 0 128.334 88.0018 52.8359 0 -181.17 87.9958 0 0 -67.9979 -87.9958 0 0 -304.001c0,-25.1639 1.5,-41.3339 4.66799,-48.4979 2.99999,-7.16999 7.99798,-12.834 15,-17.166 6.99599,-4.16999 16.998,-6.33599 29.9999,-6.33599 9.66598,0 22.5,1.164 38.3279,3.49799z" horiz-adv-x="277" unicode="t"/>
+   <glyph d="M5.99999 0l189.498 268.835 -175.5 250.163 108.168 0 82.0018 -122.502c15.168,-22.998 27.1679,-41.6639 35.6639,-56.3279 14.838,20.832 28.0019,39.6659 39.8339,56.4959l86.3338 122.334 107.502 0 -176.502 -250.163 187.998 -268.835 -106.998 0 -107.334 160.002 -24.498 38.4959 -138.666 -198.498 -107.502 0z" horiz-adv-x="500" unicode="x"/>
+  </font>
+  <style type="text/css">
+    @font-face { font-family:"Arial";font-variant:normal;font-style:normal;font-weight:normal;}
+    .svgst01 {stroke:black;stroke-width:7.62;stroke-linejoin:bevel;stroke-miterlimit:22.9256}
+    .svgst02 {fill:none}
+    .svgst03 {fill:black}
+    .svgst04 {font-weight:normal;font-size:1666.67px;font-family:'Arial'}
+  </style>
+ </defs>
+ <g>
+  
+  <line class="svgst02 svgst01" x1="2754.2" x2="12754" y1="10500" y2="10500" style="marker-end:url(#a);stroke-width:52.917"/>
+  <line class="svgst02 svgst01" x1="2754.2" x2="2754.2" y1="10500" y2="500" style="marker-end:url(#a);stroke-width:52.917"/>
+  <line class="svgst02 svgst01" x1="5754.2" x2="2754.2" y1="6500" y2="2500" style="stroke-dasharray:846.66668689,105.83333596;stroke-width:105.83"/>
+  <line class="svgst02 svgst01" x1="2754.2" x2="5754.2" y1="10500" y2="6500" style="stroke-dasharray:846.66668689,105.83333596;stroke-width:105.83"/>
+  <line class="svgst02 svgst01" x1="2754.2" x2="2754.2" y1="10500" y2="2500" style="marker-end:;stroke-width:105.83"/>
+  <line class="svgst02 svgst01" x1="19082" x2="29082" y1="10500" y2="10500" style="marker-end:url(#a);stroke-width:52.917"/>
+  <line class="svgst02 svgst01" x1="19082" x2="19082" y1="10500" y2="500" style="marker-end:url(#a);stroke-width:52.917"/>
+  <line class="svgst02 svgst01" x1="32209" x2="42209" y1="10500" y2="10500" style="marker-end:url(#a);stroke-width:52.917"/>
+  <line class="svgst02 svgst01" x1="32209" x2="32209" y1="10500" y2="500" style="marker-end:url(#a);stroke-width:52.917"/>
+  <line class="svgst02 svgst01" x1="32209" x2="38209" y1="10500" y2="2500" style="stroke-width:105.83"/>
+  
+  <line class="svgst02 svgst01" x1="19082" x2="13082" y1="10500" y2="2500" style="stroke-width:105.83"/>
+  <line class="svgst02 svgst01" x1="13082" x2="19082" y1="2500" y2="6500" style="stroke-dasharray:1270.00003046,105.83333596;stroke-width:105.83"/>
+  <line class="svgst02 svgst01" x1="19082" x2="19082" y1="10500" y2="6500" style="stroke-dasharray:1270.00003046,105.83333596;stroke-width:105.83"/>
+  <line class="svgst02 svgst01" x1="32209" x2="38209" y1="10500" y2="6500" style="stroke-dasharray:1270.00003046,105.83333596;stroke-width:105.83"/>
+  <line class="svgst02 svgst01" x1="38209" x2="38209" y1="6500" y2="2500" style="stroke-dasharray:1270.00003046,105.83333596;stroke-width:105.83"/>
+  <text class="svgst03 svgst04" x="434.89569" y="1963.5">ct</text>
+  <text class="svgst03 svgst04" x="11372.386" y="12272.01">x</text>
+  <text class="svgst03 svgst04" x="16762.934" y="1963.5">ct</text>
+  <text class="svgst03 svgst04" x="27700.424" y="12272.01">x</text>
+  <text class="svgst03 svgst04" x="29889.596" y="1963.5">ct</text>
+  <text class="svgst03 svgst04" x="40826.992" y="12272.01">x</text>
+ </g>
+</svg>

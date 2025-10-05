@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="155mm" height="90mm" version="1.1" viewBox="0 0 155000 9e4" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <defs><marker id="a" overflow="visible" markerHeight="5.57142857" markerWidth="9.75" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 8.75 5"><path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd"/></marker>
+  <style type="text/css">
+    .svgst01 {stroke:black;stroke-width:264.6;stroke-miterlimit:22.9256}
+    .svgst02 {stroke:black;stroke-width:200;stroke-miterlimit:22.9256}
+    .svgst03 {stroke:black;stroke-width:200;stroke-miterlimit:22.9256;stroke-dasharray:400.000000 1000.000000}
+    .svgst04 {fill:none}
+    .svgst05 {fill:black}
+    .svgst06 {fill:white;fill-rule:nonzero}
+    .svgst07 {font-weight:normal;font-size:4000px;font-family:'Arial'}
+  </style>
+ </defs>
+ 
+  
+  
+   
+    <polygon class="svgst06" points="6062.5 86010 148937 86010 148937 3989.6 6062.5 3989.6"/>
+   
+   
+    <polygon class="svgst06" transform="translate(1058.3)" points="96131 7958.3 88543 7958.3 88543 15896 96131 15896"/>
+   
+   
+    <g transform="translate(11836 -34472)">
+     <text class="svgst05 svgst07" x="77500" y="45000">fib 5</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="123751 29125 131340 29125 131340 21188 123751 21188"/>
+   
+   
+    <g transform="translate(45987 -18596)">
+     <text class="svgst05 svgst07" x="77500" y="45000">fib 3</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="53334 29125 60923 29125 60923 21188 53334 21188"/>
+   
+   
+    <g transform="translate(-24430 -18596)">
+     <text class="svgst05 svgst07" x="77500" y="45000">fib 4</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="137380 42354 144969 42354 144969 34417 137380 34417"/>
+   
+   
+    <g transform="translate(58557 -5367.3)">
+     <text class="svgst05 svgst07" x="77500" y="45000">fib 1</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="110122 42354 117711 42354 117711 34417 110122 34417"/>
+   
+   
+    <g transform="translate(32358 -5367.3)">
+     <text class="svgst05 svgst07" x="77500" y="45000">fib 2</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="119208 55583 126797 55583 126797 47646 119208 47646"/>
+   
+   
+    <g transform="translate(41444 7861.8)">
+     <text class="svgst05 svgst07" x="77500" y="45000">fib 0</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="101036 55583 108625 55583 108625 47646 101036 47646"/>
+   
+   
+    <g transform="translate(24330 7861.8)">
+     <text class="svgst05 svgst07" x="76441.672" y="45000">fib 1</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="73778 42354 81367 42354 81367 34417 73778 34417"/>
+   
+   
+    <g transform="translate(-3986.5 -5367.3)">
+     <text class="svgst05 svgst07" x="77500" y="45000">fib 2</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="46520 55583 54109 55583 54109 47646 46520 47646"/>
+   
+   
+    <g transform="translate(-31244 7861.8)">
+     <text class="svgst05 svgst07" x="77500" y="45000">fib 1</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="19262 55583 26850 55583 26850 47646 19262 47646"/>
+   
+   
+    <g transform="translate(-57444 7861.8)">
+     <text class="svgst05 svgst07" x="77500" y="45000">fib 2</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="28348 68812 35936 68812 35936 60875 28348 60875"/>
+   
+   
+    <g transform="translate(-48358 21091)">
+     <text class="svgst05 svgst07" x="77500" y="45000">fib 0</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="10176 68812 17764 68812 17764 60875 10176 60875"/>
+   
+   
+    <g transform="translate(-66530 21091)">
+     <text class="svgst05 svgst07" x="77500" y="45000">fib 1</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="32891 42354 40480 42354 40480 34417 32891 34417"/>
+   
+   
+    <g transform="translate(-43815 -5367.3)">
+     <text class="svgst05 svgst07" x="77500" y="45000">fib 3</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="82864 55583 90453 55583 90453 47646 82864 47646"/>
+   
+   
+    <g transform="translate(6157.7 7861.8)">
+     <text class="svgst05 svgst07" x="77500" y="45000">fib 0</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="64692 55583 72281 55583 72281 47646 64692 47646"/>
+   
+   
+    <g transform="translate(-12014 7861.8)">
+     <text class="svgst05 svgst07" x="77500" y="45000">fib 1</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="137380 55583 144969 55583 144969 47646 137380 47646"/>
+   
+   
+    <g transform="translate(62792 7861.8)">
+     <text class="svgst05 svgst07" x="77500" y="45000">1</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="101036 68812 108625 68812 108625 60875 101036 60875"/>
+   
+   
+    <g transform="translate(26447 21091)">
+     <text class="svgst05 svgst07" x="77500" y="45000">1</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="119208 68812 126797 68812 126797 60875 119208 60875"/>
+   
+   
+    <g transform="translate(44619 21091)">
+     <text class="svgst05 svgst07" x="77500" y="45000">0</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="10176 82042 17764 82042 17764 74104 10176 74104"/>
+   
+   
+    <g transform="translate(-64413 34320)">
+     <text class="svgst05 svgst07" x="77500" y="45000">1</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="28348 82042 35936 82042 35936 74104 28348 74104"/>
+   
+   
+    <g transform="translate(-46240 34320)">
+     <text class="svgst05 svgst07" x="77500" y="45000">0</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="46520 68812 54109 68812 54109 60875 46520 60875"/>
+   
+   
+    <g transform="translate(-28068 21091)">
+     <text class="svgst05 svgst07" x="77500" y="45000">1</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="64692 68812 72281 68812 72281 60875 64692 60875"/>
+   
+   
+    <g transform="translate(-9896.5 21091)">
+     <text class="svgst05 svgst07" x="77500" y="45000">1</text>
+    </g>
+   
+   
+    <polygon class="svgst06" points="82864 68812 90453 68812 90453 60875 82864 60875"/>
+   
+   
+    <g transform="translate(8275.4 21091)">
+     <text class="svgst05 svgst07" x="77500" y="45000">0</text>
+    </g>
+    
+
+     <path class="svgst04 svgst01" d="m98532 11755 24419 11860"/>
+    
+    
+
+     <path class="svgst04 svgst01" d="m87284 11415-25560 11856"/>
+    
+    
+     <path class="svgst05" d="m131340 28839 6040.4 5863.1-6040.4-5863.1z"/>
+     <path class="svgst04 svgst01" d="m131340 28839 6040.4 5863.1"/>
+    
+    
+     <path class="svgst05" d="m123751 28839-6040.3 5863.1 6040.3-5863.1z"/>
+     <path class="svgst04 svgst01" d="m123751 28839-6040.3 5863.1"/>
+    
+    
+     <path class="svgst05" d="m116642 42354 3634.4 5291.6-3634.4-5291.6z"/>
+     <path class="svgst04 svgst01" d="m116642 42354 3634.4 5291.6"/>
+    
+    
+     <path class="svgst05" d="m111191 42354-3634.4 5291.6 3634.4-5291.6z"/>
+     <path class="svgst04 svgst01" d="m111191 42354-3634.4 5291.6"/>
+    
+    
+     <path class="svgst05" d="m60923 27612 12855 8318.5-12855-8318.5z"/>
+     <path class="svgst04 svgst01" d="m60923 27612 12855 8318.5"/>
+    
+    
+     <path class="svgst05" d="m25782 55583 3634.4 5291.7-3634.4-5291.7z"/>
+     <path class="svgst04 svgst01" d="m25782 55583 3634.4 5291.7"/>
+    
+    
+     <path class="svgst05" d="m20330 55583-3634.4 5291.7 3634.4-5291.7z"/>
+     <path class="svgst04 svgst01" d="m20330 55583-3634.4 5291.7"/>
+    
+    
+     <path class="svgst05" d="m53334 27612-12855 8318.5 12855-8318.5z"/>
+     <path class="svgst04 svgst01" d="m53334 27612-12855 8318.5"/>
+    
+    
+     <path class="svgst05" d="m40480 42068 6040.3 5863.2-6040.3-5863.2z"/>
+     <path class="svgst04 svgst01" d="m40480 42068 6040.3 5863.2"/>
+    
+    
+     <path class="svgst05" d="m32891 42068-6040.4 5863.2 6040.4-5863.2z"/>
+     <path class="svgst04 svgst01" d="m32891 42068-6040.4 5863.2"/>
+    
+    
+     <path class="svgst05" d="m80298 42354 3634.4 5291.6-3634.4-5291.6z"/>
+     <path class="svgst04 svgst01" d="m80298 42354 3634.4 5291.6"/>
+    
+    
+     <path class="svgst05" d="m74846 42354-3634.3 5291.6 3634.3-5291.6z"/>
+     <path class="svgst04 svgst01" d="m74846 42354-3634.3 5291.6"/>
+    
+    
+     <path class="svgst05" d="m141174 42354v5291.6-5291.6z"/>
+     <path class="svgst04 svgst01" d="m141174 42354v5291.6"/>
+    
+    
+     <path class="svgst05" d="m104830 55583v5291.7-5291.7z"/>
+     <path class="svgst04 svgst01" d="m104830 55583v5291.7"/>
+    
+    
+     <path class="svgst05" d="m123002 55583v5291.7-5291.7z"/>
+     <path class="svgst04 svgst01" d="m123002 55583v5291.7"/>
+    
+    
+     <path class="svgst05" d="m13970 68812v5291.7-5291.7z"/>
+     <path class="svgst04 svgst01" d="m13970 68812v5291.7"/>
+    
+    
+     <path class="svgst05" d="m32142 68812v5291.7-5291.7z"/>
+     <path class="svgst04 svgst01" d="m32142 68812v5291.7"/>
+    
+    
+     <path class="svgst05" d="m50314 55583v5291.7-5291.7z"/>
+     <path class="svgst04 svgst01" d="m50314 55583v5291.7"/>
+    
+    
+     <path class="svgst05" d="m68486 55583v5291.7-5291.7z"/>
+     <path class="svgst04 svgst01" d="m68486 55583v5291.7"/>
+    
+    
+     <path class="svgst05" d="m86658 55583v5291.7-5291.7z"/>
+     <path class="svgst04 svgst01" d="m86658 55583v5291.7"/>
+    
+   
+  
+  <circle class="svgst04 svgst02" cx="14032" cy="83320" r="1e3"/>
+  <circle class="svgst04 svgst02" cx="32122" cy="83317" r="1e3"/>
+  <circle class="svgst04 svgst02" cx="29908" cy="51743" r="1e3"/>
+  <circle class="svgst04 svgst02" cx="43510" cy="38410" r="1e3"/>
+  <circle class="svgst04 svgst02" cx="63908" cy="25557" r="1e3"/>
+  <circle class="svgst04 svgst02" cx="84486" cy="38392" r="1e3"/>
+  <circle class="svgst04 svgst02" cx="100322" cy="9545.2" r="1e3"/>
+  <circle class="svgst04 svgst02" cx="50372" cy="70086" r="1e3"/>
+  <circle class="svgst04 svgst02" cx="68440" cy="70094" r="1e3"/>
+  <circle class="svgst04 svgst02" cx="120791" cy="38400" r="1e3"/>
+  <circle class="svgst04 svgst02" cx="86559" cy="70094" r="1e3"/>
+  <circle class="svgst04 svgst02" cx="104880" cy="70078" r="1e3"/>
+  <circle class="svgst04 svgst02" cx="123105" cy="70094" r="1e3"/>
+  <circle class="svgst04 svgst02" cx="141138" cy="56856" r="1e3"/>
+  <circle class="svgst04 svgst02" cx="134458" cy="25105" r="1e3"/>
+  <path class="svgst04 svgst03" d="m15560 83312c2709.4-16.7 5418.9-33.5 9284.4 27.6 3865.4 61 8886.9 200 11648-169s3260.8-1246 3505.5-2395.6c244.6-1149.5 233.8-2571.7 294.5-4412.8s192.9-4101.1-724.2-7501.8c-917.2-3400.6-2883.7-7941.9-4952.8-10924-2069.1-2981.7-4240.8-4404.1-4709.2-5523.1s766.3-1934.8 3067.6-2353.8 5669.2-441.1 7641.1 1413.4c1972 1854.6 2547.8 5585.9 2480.1 9231.9s-779.1 7206.9 323.7 8656.6c1102.7 1449.8 4019.6 788.4 7299.8 744.3 3280.1-44 6923.6 529.3 7411.1-3671.1 487.3-4200.3-2181.3-13174-5997.7-18661-3816.5-5487.2-8780.7-7487.6-8833.2-9076.6-52.6-1588.9 4806.7-2766.4 8662.9-3124.7 3856.1-358.3 6709.2 102.6 8338.2 2198.7 1629 2096 2033.8 5827.3 2049.1 9831.7 15.2 4004.4-359.3 8282-551.9 12234-192.7 3952.3-203.5 7579.3 2558.2 9216.4 2761.6 1637.1 8295.7 1284.2 13119 1190.5 4823.1-93.6 8935.2 71.8 11788-223.1s4446.4-1050.1 5439.4-5005.1c993-3954.9 1385.3-11110-369.8-16208-1755-5098.6-5657.4-8141.2-12442-11630-6784.9-3489-16452-7424.4-17791-10484s5650.4-5241.9 12816-6156.9c7165.8-915 14508-562.2 18253 2226.8 3745.1 2789 3892.9 8014.3 3823.5 14309s-356.2 13659-488.5 19645c-132.2 5986.2-110.2 10594 2965.5 12391 3075.9 1797.1 9205.5 782.8 14806 804.8 5600.3 22.1 10672 1080.5 13110-1557.8 2438.3-2638.2 2244-8972.9-298.9-14725-2542.8-5751.7-7434.1-10920-8323-13968s2224.5-3976.1 5090.3-4193.9c2865.9-217.9 5484.1 274.3 6938.9 1518 1454.7 1243.7 1746.1 3238.7 1792.5 6782.9 46.5 3544.2-151.9 8637.6 1446.6 11068 1598.7 2430.9 4994.2 2199.4 8136.1 2034 3142-165.3 6030.4-264.6 6692-4260.9 661.5-3996.3-904-11890-5291.7-17965-4387.7-6075.4-15025-12846-22839-16154-8385.7-2966-10866-4526.5-19627-7800.2" marker-end="url(#a)" stroke="#000" stroke-dasharray="200.00000054,799.99999952"/>
+ 
+</svg>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124mm" height="201mm" version="1.1" viewBox="0 0 124000 201000" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+    .svgst01 {stroke:black;stroke-width:105.8;stroke-linecap:round;stroke-miterlimit:22.9256}
+    .svgst02 {stroke:black;stroke-width:105.8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .svgst03 {stroke:black;stroke-width:211.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .svgst04 {fill:none}
+    .svgst05 {fill:black}
+    .svgst06 {font-weight:normal;font-size:8400.4px;font-family:'Arial'}
+  </style>
+ </defs>
+ 
+  
+  <g transform="translate(-42612 -47689)">
+   
+    
+     
+      <line class="svgst04 svgst03" x1="52718" x2="116513" y1="108467" y2="123791"/>
+      <line class="svgst04 svgst03" x1="116513" x2="155628" y1="123791" y2="94836"/>
+      <line class="svgst04 svgst03" x1="155628" x2="91833" y1="94836" y2="79512"/>
+      <path class="svgst04 svgst03" d="m91833 79512 127 5587.9m84.6 3005.6 169.3 6011.2m42.4 3005.6 169.3 6011.2m84.7 3005.5 169.3 6011.2m84.7 3005.6 127 6011.2m84.7 3005.6 169.3 6011.2m84.7 3005.6 169.3 6011.2m42.3 3005.5 169.3 5587.9"/>
+      <path class="svgst04 svgst03" d="m93611 147794 4106.2 973.6m2921 719.7 5841.9 1397m2963.2 677.3 5841.9 1439.3m2920.9 677.3 5841.9 1397m2920.9 719.6 5841.9 1397m2920.9 719.6 5841.9 1397m2920.8 677.3 5841.9 1397m2920.9 719.6 4148.6 973.6"/>
+      <line class="svgst04 svgst03" x1="157406" x2="118333" y1="163075" y2="192031"/>
+      <line class="svgst04 svgst03" x1="118333" x2="54539" y1="192031" y2="176749"/>
+      <line class="svgst04 svgst03" x1="54539" x2="52718" y1="176749" y2="108467"/>
+      <line class="svgst04 svgst03" x1="52718" x2="91833" y1="108467" y2="79512"/>
+      <line class="svgst04 svgst03" x1="116513" x2="118333" y1="123791" y2="192031"/>
+      <line class="svgst04 svgst03" x1="155628" x2="157406" y1="94836" y2="163075"/>
+      <path class="svgst04 svgst03" d="m54539 176749 3809.9-2836.3m2412.9-1820.3 4825.9-3555.9m2455.2-1820.3 4825.9-3555.9m2413-1777.9 4825.9-3598.2m2412.9-1778 4825.9-3598.2m2412.9-1778 3852.2-2836.3"/>
+      <line class="svgst04 svgst03" x1="104194" x2="104194" y1="101651" y2="57795"/>
+      <line class="svgst04 svgst03" x1="105972" x2="105972" y1="239400" y2="169933"/>
+      <line class="svgst04 svgst03" x1="105083" x2="105083" y1="135771" y2="110160"/>
+     
+     
+      <polygon class="svgst05 svgst01" points="105972 169933 104956 175944 106946 175944"/>
+      <polygon class="svgst05 svgst01" points="105083 110160 104067 116171 106057 116171"/>
+      <polygon class="svgst05 svgst01" points="104194 101651 103178 95640 105168 95640"/>
+     
+     
+      <line class="svgst04 svgst02" x1="104067" x2="104914" y1="155371" y2="155371"/>
+      <line class="svgst04 svgst02" x1="104067" x2="105083" y1="155371" y2="161382"/>
+      <line class="svgst04 svgst02" x1="105083" x2="106057" y1="161382" y2="155371"/>
+      <line class="svgst04 svgst02" x1="105210" x2="105210" y1="135771" y2="155371"/>
+      <line class="svgst04 svgst02" x1="104914" x2="104914" y1="135771" y2="155371"/>
+      <line class="svgst04 svgst02" x1="105210" x2="106057" y1="155371" y2="155371"/>
+      <line class="svgst04 svgst02" x1="104914" x2="105210" y1="135771" y2="135771"/>
+     
+    
+    
+     <g transform="translate(-37719 -27249)">
+      <text class="svgst05 svgst06" x="105000" y="148500">dp</text>
+      <text class="svgst05 svgst06" x="116696.1" y="148500">dV/</text>
+      <text class="svgst05 svgst06" x="129221.1" y="148500">dh</text>
+     </g>
+     <g transform="translate(6390.7,-74026)">
+      <text class="svgst05 svgst06" x="105000" y="148500">p dV/dh</text>
+     </g>
+     <g transform="translate(3850.8 54918)">
+      <text class="svgst05 svgst06" x="105000" y="148500">(p+dp) dV/dh</text>
+     </g>
+     <g transform="translate(-25951,9326.2)">
+      <text class="svgst05 svgst06" x="105000" y="148500">ρ</text>
+      <text class="svgst05 svgst06" x="109778.4" y="148500"> dV g</text>
+     </g>
+    
+   
+  </g>
+ 
+</svg>

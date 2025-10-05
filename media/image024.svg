@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="234mm" height="165mm" version="1.1" viewBox="0 0 234000 165000" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+    .svgst01 {stroke:black;stroke-width:400;stroke-linecap:round;stroke-miterlimit:22.9256}
+    .svgst02 {stroke:black;stroke-width:100;stroke-linecap:round;stroke-miterlimit:22.9256}
+    .svgst03 {stroke:black;stroke-width:800;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .svgst04 {stroke:black;stroke-width:400;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .svgst05 {fill:none}
+    .svgst06 {fill:none;fill-rule:nonzero}
+    .svgst07 {fill:black}
+    .svgst08 {fill:white;fill-rule:nonzero}
+    .svgst09 {font-weight:normal;font-size:7114.8px;font-family:'Arial'}
+    .svgst10 {font-weight:normal;font-size:8893.6px;font-family:'Arial'}
+    .svgst11 {font-weight:normal;font-size:10164px;font-family:'Arial'}
+  </style>
+ </defs>
+ 
+  
+  
+   
+    
+     
+      <polygon class="svgst08" points="583.3 164522 233410 164522 233410 482.6 583.3 482.6"/>
+     
+    
+    
+     <path class="svgst06 svgst03" d="m143840 87879c0 37419-30791 68210-68210 68210s-68210-30791-68210-68210 30791-68210 68210-68210 68210 30791 68210 68210"/>
+     <path class="svgst06 svgst03" d="m220364 20973c0 3741.9-3079.1 6821-6821 6821s-6821-3079.1-6821-6821 3079.1-6821 6821-6821 6821 3079.1 6821 6821"/>
+     
+      <line class="svgst06 svgst04" x1="3334.9" x2="147942" y1="87871" y2="87871"/>
+      <line class="svgst06 svgst04" x1="75638" x2="75638" y1="15567" y2="160174"/>
+      <line class="svgst06 svgst04" x1="213557" x2="166526" y1="20986" y2="43803"/>
+      <line class="svgst06 svgst04" x1="167542" x2="213557" y1="20986" y2="20986"/>
+      <line class="svgst06 svgst04" x1="213557" x2="157297" y1="48248" y2="48248"/>
+      <line class="svgst06 svgst04" x1="213557" x2="213557" y1="38003" y2="20986"/>
+      <line class="svgst06 svgst04" x1="157297" x2="157297" y1="48248" y2="20986"/>
+      <line class="svgst06 svgst04" x1="75638" x2="157298" y1="87871" y2="48248"/>
+     
+    
+    
+     <polygon class="svgst07 svgst02" points="167542 19250 167542 22679 157297 20986"/>
+     <polygon class="svgst07 svgst02" points="211821 38003 215250 38003 213557 48248"/>
+     <polygon class="svgst07 svgst02" points="165764 42236 167246 45327 157297 48248"/>
+    
+    
+     <path class="svgst05 svgst04" d="m112768 92417c-184.1 1506-459.6 2999.4-825 4472"/>
+     <path class="svgst05 svgst04" d="m104369 63923c971.5 1165.3 1871.2 2388.7 2694.1 3663.3"/>
+     <path class="svgst05 svgst04" d="m109293 71547c2469.2 5089.6 3752.1 10674 3752.1 16330"/>
+    
+    
+     <polygon class="svgst07 svgst01" points="113526 92442 112002 92358 113060 87871"/>
+     <polygon class="svgst07 svgst01" points="106414 67974 107726 67212 109293 71530"/>
+     <g transform="translate(-2437 1010.3)">
+      <text class="svgst07 svgst10" x="117000" y="82500">θ</text>
+     </g>
+    
+    
+     <line class="svgst06 svgst04" x1="213557" x2="232606" y1="48248" y2="48248"/>
+     <line class="svgst06 svgst04" x1="213557" x2="225029" y1="20986" y2="15398"/>
+     <path class="svgst06 svgst04" d="m228306 38642c228 1683.3 396 3374.2 503.7 5069.7"/>
+     <path class="svgst06 svgst04" d="m223624 21134c734.5 1796.1 1395.8 3621.3 1982.2 5471"/>
+    
+    <polygon class="svgst07 svgst02" points="228035 43718 229559 43676 228966 48248"/>
+    <polygon class="svgst07 svgst02" points="224309 20816 222912 21451 221769 16964"/>
+    
+     <g transform="translate(107733 -46698)">
+      <text class="svgst07 svgst10" x="117000" y="82500">θ</text>
+     </g>
+     <g transform="translate(75094 -40898)">
+      <text class="svgst07 svgst11" x="117000" y="82500">F</text>
+     </g>
+     <g transform="translate(81063 -38486)">
+      <text class="svgst07 svgst09" x="117000" y="82500">d</text>
+     </g>
+     <g transform="translate(59559 -71970)">
+      <text class="svgst07 svgst11" x="117000" y="82500">F</text>
+     </g>
+     <g transform="translate(65527 -69558)">
+      <text class="svgst07 svgst09" x="117000" y="82500">d</text>
+     </g>
+     <g transform="translate(69464 -71970)">
+      <text class="svgst07 svgst11" x="117000" y="82500">cos(</text>
+      <text class="svgst07 svgst11" x="141854.4" y="82500">)</text>
+      <text class="svgst07 svgst11" x="136201.5" y="82500">θ</text>
+     </g>
+    
+   
+  
+ 
+</svg>

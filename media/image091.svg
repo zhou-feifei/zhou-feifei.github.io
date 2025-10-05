@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="198pt" height="198pt" viewBox="0 0 198 198" version="1.1">
+    <defs>
+        <clipPath id="clip1">
+            <path d="M 0 0 L 198 0 L 198 197.519531 L 0 197.519531 Z M 0 0 " />
+        </clipPath>
+    </defs>
+    <g id="surface33">
+        <g clip-path="url(#clip1)" clip-rule="nonzero">
+            <path style="fill:none;stroke-width:1.1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-dasharray:4.4,4.4;stroke-miterlimit:3.25;" d="M 266.639063 104.339844 C 266.639063 79.136719 256.627344 54.960938 238.803125 37.136719 C 220.978906 19.316406 196.807031 9.300781 171.6 9.300781 C 146.392969 9.300781 122.221094 19.316406 104.396875 37.136719 C 86.572656 54.960938 76.560938 79.136719 76.560938 104.339844 C 76.560938 129.546875 86.572656 153.722656 104.396875 171.546875 C 122.221094 189.367188 146.392969 199.382813 171.6 199.382813 C 196.807031 199.382813 220.978906 189.367188 238.803125 171.546875 C 256.627344 153.722656 266.639063 129.546875 266.639063 104.339844 Z M 266.639063 104.339844 " transform="matrix(1,0,0,1,-72.6,-5.5)" />
+        </g>
+        <path style="fill:none;stroke-width:1.1;stroke-linecap:square;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:3.25;" d="M 171.6 104.339844 L 171.6 199.382813 " transform="matrix(1,0,0,1,-72.6,-5.5)" />
+    </g>
+</svg>

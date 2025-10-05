@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 950 950" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="d" overflow="visible" markerHeight="4" markerWidth="4" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+   <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd"/>
+  </marker>
+  <marker id="a" overflow="visible" markerHeight="4" markerWidth="4" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+   <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd"/>
+  </marker>
+  <marker id="e" overflow="visible" markerHeight="4" markerWidth="4" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+   <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd"/>
+  </marker>
+  <marker id="b" overflow="visible" markerHeight="17.142857" markerWidth="30" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" refX="6.1618061" refY="-0.01833871" viewBox="0 0 8.75 5">
+   <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd"/>
+  </marker>
+  <marker id="c" overflow="visible" markerHeight="10" markerWidth="10" orient="auto" preserveAspectRatio="xMidYMid" viewBox="0 0 5.6666667 5.6666667">
+   <path transform="scale(.5)" d="m5 0c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.3-5 5-5c2.76 0 5 2.24 5 5z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <g fill="none" stroke="#000">
+  <path d="m294.42 850.52h595.28" marker-end="url(#a)"/>
+  <path d="m96 652.09v-595.28" marker-end="url(#e)"/>
+  <path d="m572.22 850.52v-619.09h-476.22" stroke-dasharray="8, 4"/>
+  <path d="m95.848 850.68 461.23-600.15" marker-end="url(#d)" marker-start="url(#c)" stroke-width=".97049"/>
+  <path d="m96 850.52h198.42" marker-end=""/>
+  <path d="m96 652.09v198.43-180.06" marker-start="url(#b)"/>
+  <path d="m96 850.26v-180.5" fill="#000" stroke="#000" stroke-width="3"/>
+ </g>
+ <g font-family="Arial" font-size="53.333px">
+  <text transform="translate(17.089 70.315)" style="shape-inside:url(#rect12782);white-space:pre" xml:space="preserve"><tspan x="0" y="0"><tspan font-style="italic">Im</tspan></tspan></text>
+  <text transform="translate(854.67 922.53)" style="shape-inside:url(#rect12782-4);white-space:pre" xml:space="preserve"><tspan x="0" y="0"><tspan font-style="italic">Re</tspan></tspan></text>
+  <g font-style="italic">
+   <text x="267.59845" y="890.31812" xml:space="preserve"><tspan/></text>
+   <text x="53.282444" y="686.11029" xml:space="preserve"><tspan x="53.282444" y="686.11029">i</tspan></text>
+   <text x="457.76178" y="191.22588" xml:space="preserve"><tspan x="457.76178" y="191.22588">z=a+bi</tspan></text>
+   <text x="554.8576" y="912.88574" xml:space="preserve"><tspan x="554.8576" y="912.88574">a</tspan></text>
+   <text x="46.949493" y="251.81999" xml:space="preserve"><tspan x="46.949493" y="251.81999">b</tspan></text>
+  </g>
+ </g>
+</svg>
