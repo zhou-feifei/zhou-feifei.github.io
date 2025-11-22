@@ -1,4 +1,4 @@
-[建立在质量矢量化假设上的暗物质和暗能量理论(多个章节网页版)](https://www.zhoufeifei.org/dark_matter_and_dark_energy_theory/contents.html) 推荐！
+[建立在质量矢量化假设上的暗物质和暗能量理论(多个章节网页版)](https://www.zhoufeifei.org/dark_matter_and_dark_energy_theory/index.html) 推荐！
 
 [建立在质量矢量化假设上的暗物质和暗能量理论(单网页版)](https://zhou-feifei.github.io/) 这个是github page，排版比较简单，可以下载本仓库到本地。
 
